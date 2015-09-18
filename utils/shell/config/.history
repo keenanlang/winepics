@@ -1,0 +1,1000 @@
+exit
+env
+cd synApps_5_7
+cd support\
+svn status
+svn upgrade
+svn -v
+svn version
+svn --version
+cd synApps_5_7\support\
+svn status
+svn update
+cd ..\..\base-3.14.12.4\
+make
+cd base-3.14.12.4\
+svn status
+exit
+cd base-3.14.12.4\
+make rebuild
+cd ..\synApps_5_7\support\
+make
+make release
+make
+pwd
+which pwd
+exit
+pwd
+cd synApps_5_7\support\
+make
+which pwd
+dir
+ls
+ls -l
+env
+cd synApps_5_7\support\
+make
+ls /c
+~dp0
+echo %~dp0
+echo %~dp0%
+echo %TEMP%
+env
+cd synApps_5_7\support\
+make
+env
+git
+cd synApps_5_7\support
+make
+cd devIocStats-3-1-7\configure\
+ls -l
+cd ../..
+cd seq-2-1-13\configure\
+ls -l
+which nano
+which pico
+which vim
+which emacs
+export PATH=%PATH%;S:\Applications\Notepad++Portable
+set PATH=%PATH%;S:\Applications\Notepad++Portable
+Notepad++Portable RELEASE.win32-x86 
+svn remove RELEASE.win32-x86 
+svn status
+cd ../..
+make
+cd seq-2-1-13\
+grep -rnI "lemon" .
+grep -rnI "lemon" . --ignore=\.*
+grep -rnI "lemon" . --ignore=.*
+grep -rnI "lemon" . --exclude=.*
+grep -rnI "lemon" . --exclude=*.svn-base
+alias -h
+Notepad++Portable configure\CONFIG_SITE 
+grep -rnI "INSTALL_HOST_BIN" .
+make
+make distclean
+cd ..
+make distclean
+cd synApps_5_7
+make
+cd support\
+make
+cd seq-2-1-13\
+make
+which cl
+make
+set EPICS_HOST_ARCH=win32-x86-mingw
+make
+cd ../..
+cd ..\base-3.14.12.4\
+make
+cd src\toolsComm\
+make rebuild
+cd ../
+make rebuild
+cd ..\..\synApps_5_7\support\
+make
+make release
+make
+cd sscan-2-9\sscanApp\src\
+Notepad++Portable saveData_writeXDR.c 
+vim
+which vim
+svn status
+cd ../..
+make
+make rebuild
+cd ../..
+set EPICS_HOST_ARCH=win32-x86
+make
+cd support\
+make
+make rebuild
+\\
+make
+env
+set TERM=xterm
+make
+make distclean
+cd synApps_5_7\support\
+make
+make release
+make
+cd areaDetector-1-9-1\
+make
+cd ..
+make
+cd alive-0-9-1\
+make
+cd ..\xxx-5-7-1\
+make
+make rebuild
+cd iocBoot\iocCygwin\
+ls
+..\..\bin\win32-x86\xxx.exe st.cmd 
+cd ../..
+bin\win32-x86\xxx.exe 
+make rebuild
+bin\win32-x86\xxx.exe 
+cd ..
+make rebuild
+cd xxx-5-7-1\
+bin\win32-x86\xxx.exe 
+exit
+cd synApps_5_7\support\
+make
+cd xxx-5-7-1\
+bin\win32-x86\xxx.exe 
+cd ..\areaDetector-1-9-1\
+make rebuild
+cd ..\xxx-5-7-1\
+make rebuild
+bin\win32-x86\xxx.exe 
+cd ..
+make rebuild
+xxx-5-7-1\bin\win32-x86\xxx.exe 
+grep -rnI "PvAPI" . --include=Makefile
+cd areaDetector-1-9-1\ADApp\
+ls
+ls -l
+grep -rnI "pvapi" .
+grep -rnI "PvAPI" .
+make
+make rebuild
+cd ../..
+make rebuild
+cd xxx-5-7-1\
+make rebuild
+bin\win32-x86\xxx.exe 
+cd iocBoot\iocCygwin\
+..\..\bin\win32-x86\xxx.exe st.cmd 
+cd ..\iocLinux\
+..\..\bin\win32-x86\xxx.exe st.cmd 
+cd ..\iocCygwin\
+make
+..\..\bin\win32-x86\xxx.exe st.cmd 
+locate
+locate PvAPI.dll
+locate -h
+locate --help
+which wedit
+wdit
+wedit
+exit
+which wedit
+wedit
+set PATH=%PATH%;S:\Applications\Notepad++Portable
+cd synApps_5_7\support\xxx-5-7-1\xxxApp\src\
+ls
+Notepad++Portable Makefile
+cd ../../..
+Notepad++Portable Makefile
+cd areaDetector-1-9-1\ADApp\
+ls
+Notepad++Portable Makefile
+cd ..
+make rebuild
+cd ..
+cd areaDetector-1-9-1\ADApp\
+Notepad++Portable commonDriverMakefile 
+cd ..
+make
+cd ..\quadEM-4-0\
+make rebuild
+cd ..\xxx-5-7-1\
+make rebuild
+bin\win32-x86\xxx.exe 
+bash
+python
+calc
+help
+cd iocBoot\iocCygwin\
+..\..\bin\win32-x86\xxx.exe st.cmd 
+exit
+caget -h
+medm
+cd utils\Xming\
+Xming
+XLaunch
+exit
+cd synApps_5_7\support\xxx-5-7-1\
+make rebuild
+which perl
+exit
+cd synApps_5_7\support\xxx-5-7-1\
+make rebuild
+exit
+cd synApps_5_7\support\xxx-5-7-1\
+make rebuild
+exit
+medm
+env
+exit
+medm
+exit
+vi
+vim
+vi
+which bash
+which diff
+which env
+which git
+which grep
+which pwd
+which rxvt
+rxvt
+exit
+bash test
+bash "export T=YES"
+exit
+bash test
+env
+env VS
+env -h
+env --help
+exit
+medm
+medm -h
+which medm
+exit
+env
+medm
+exit
+medm
+exit
+medm
+env
+medm
+exit
+medm
+exit
+medm
+exit
+medm
+cd utils\extensions\64bit\
+grep -rnI "EPICS" .
+medm
+exit
+echo %PROCESSOR_ARCHITECTURE%
+echo %PATH%
+medm
+exit
+echo %PATH%
+exit
+medm
+env
+exit
+bash test
+exit
+bash test
+exit
+which cat
+env | cat
+exit
+bash test
+env
+bash test
+which read
+bash test
+echo %SHELL%
+bash
+echo $SHELL
+env
+bash -h
+bash --version
+bash -v
+bash test
+bash
+bash test
+exit
+zsh
+ls
+ls -l
+medm
+which rxvt
+which xterm
+utils\Git\App\Git\bin\bash.exe test
+utils\Git\App\Git\bin\bash.exe --version
+bash.exe 
+utils\Git\git --version
+utils\Git\App\Git\bin\git --version
+exit
+which git
+git --version
+which bash
+cd synApps_5_7\support\xxx-5-7-1\
+make rebuild
+cd synApps_5_7\support\xxx-5-7-1\
+make
+make rebuild
+make clean
+make
+env
+cd ..
+make
+make rebuild
+which make
+echo %VS90COMNTOOLS%
+ls %VS90COMNTOOLS%
+exit
+cd synApps_5_7\support\
+make
+make rebuild
+cd seq-2-1-13\
+exit
+cd synApps_5_7\support\seq-2-1-13\
+make rebuild
+cd ..
+cd ../../..
+cd EPICS\
+utils\Git\App\Git\bin\bash.exe test
+utils\Git\App\Git\bin\bash.exe --version
+utils\Git\App\Git\bin\bash.exe test
+exit
+perl -v
+perl test.pl
+set VS100COMNTOOLS=1
+perl test.pl
+test.bat
+CALL perl version.pl
+FOR /F %i IN ('CALL perl version.pl') DO ECHO "Hello"
+./test.bat
+test.bat
+perl version.pl
+exit
+cd synApps_5_7\support\
+make
+exit
+env
+cd ..\medm\medm3_1_9\
+ls
+make
+exit
+cd ..\EPICS\medm\medm3_1_9\
+make
+cd ../..
+cd base-3.14.12.4\medm\medm3_1_9\
+make
+exit
+medm
+cd utils\extensions\64bit\
+grep -rnI "utils" .
+grep -rnI "X" .
+grep -rnI "Xmin" .
+grep -rnI "dll" .
+exit
+which medm
+medm
+exit
+which medm
+medm.exe
+which medm.exe.lnk
+exit
+pwd
+which svn
+which ssh
+cd ..
+ls
+cd test\
+ls
+cd ..
+cd EPICS\
+ls
+cd synApps_5_7\support\
+make distclean
+cd ..\..\base-3.14.12.4\
+ls
+make distclean
+exit
+cd ..\EPICS\base-3.14.12.4\
+make
+cd ..\synApps_5_7\support\
+make
+exit
+cd ../../..
+cd keena_000\Desktop\area\
+ls
+cd areaDetector-2-1\
+ls
+cd ADCore\
+ls
+cd iocs
+ls
+cd simDetectorIOC\
+ls
+ll
+ls -l
+alias ll "ls -l"
+ls
+cd iocBoot\
+ls
+cd iocSimDetector\
+ls
+ls -l
+..\..\bin\windows-x64\simDetectorApp.exe st.cmd.windows 
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd Viewers\
+ls
+cd ImageJ\
+ls
+cp -r EPICS_areaDetector\ "C:\Program Files (x86)\ImageJ\plugins\EPICS_areaDetector\"
+cp -r EPICS_areaDetector\ "C:\Program Files (x86)\ImageJ\plugins\"
+cd ../..
+cd iocs\simDetectorIOC\iocBoot\iocSimDetector\
+ls
+notepad st.cmd
+make
+..\..\bin\windows-x64\simDetectorApp.exe st.cmd.windows
+exit
+cd ..\area\areaDetector-2-1\ADCore\iocs\simDetectorIOC\iocBoot\
+cd ..
+ls
+cd iocBoot\
+cd iocSimDetector\
+ls
+..\..\bin\windows-x64\simDetectorApp.exe st.cmd.windows 
+S:\Applications\Notepad++Portable\Notepad++Portable.exe st.cmd.windows
+S:\Applications\Notepad++Portable\Notepad++Portable.exe st.cmd
+..\..\bin\windows-x64\simDetectorApp.exe st.cmd.windows 
+exit
+medm
+medm.exe
+cd ..\area\areaDetector-2-1\ADCore\ADApp\op\adl
+ls
+"C:\Program Files\EPICS Windows Tools\medm.exe" -macro "P=13SIM1:,R=image1:" simDetector.adl
+"C:\Program Files\EPICS Windows Tools\medm.exe" ADTop.adl 
+S:\Applications\Notepad++Portable\Notepad++Portable.exe ADTop.adl
+"C:\Program Files\EPICS Windows Tools\medm.exe" ADTop.adl 
+exit
+cd ..\area\areaDetector-2-1\ADCore\iocs\simDetectorIOC\iocBoot\iocSimDetector\
+..\..\bin\windows-x64\simDetectorApp.exe st.cmd.windows 
+S:\Applications\Notepad++Portable\Notepad++Portable.exe st.cmd
+..\..\bin\windows-x64\simDetectorApp.exe st.cmd.windows 
+exit
+which ssh
+putty
+exit
+putty
+exit
+putty
+exit
+cd ..\EPICS\
+ls
+cd synApps_5_7\support\xxx-5-7-1\
+ls
+echo %TEMP%
+set PATH=%PATH%;%TEMP%\..\EPICS\synApps_5_7\support\utils
+echo %PATH%
+changePrefix
+sh -h
+locate changePrefix
+find changePrefix
+find -h
+which changePrefix
+exit
+perl -v
+exit
+cd ..\EPICS\xxx-5-7-1\
+changePrefix.pl xxx test
+perl changePrefix.pl xxx test
+perl C:\Users\keena_000\Desktop\winEPICS32\bin\changePrefix.pl xxx test
+exit
+cd ../vmc
+ls
+ln -h
+ln --help
+ls
+cd iocBoot\iocvmc\
+ls
+../..
+ls
+cd ../..
+ls
+start_medm_windows.bat &
+cd iocBoot\iocvmc\
+ls
+notepad
+notepad vmc.substitutions 
+S:\Applications\Notepad++Portable\Notepad++Portable.exe vmc.substitutions 
+S:\Applications\Notepad++Portable\Notepad++Portable.exe vmc.cmd
+cd ../..
+ls
+start_vmc1_windows.bat 
+S:\Applications\Notepad++Portable\Notepad++Portable.exe start_vmc1_windows.bat 
+S:\Applications\Notepad++Portable\Notepad++Portable.exe start_vmc2_windows.bat 
+S:\Applications\Notepad++Portable\Notepad++Portable.exe ENV_WINDOWS.bat
+cd server-win\
+ls
+cd ..
+S:\Applications\Notepad++Portable\Notepad++Portable.exe ENV_WINDOWS.bat
+S:\Applications\Notepad++Portable\Notepad++Portable.exe start_vmc2_windows.bat 
+caget -h
+exit
+caget -h
+cd ..\medm3_1_9\
+make
+cd ..
+cd extensions\
+make
+exit
+clear
+ls
+ll
+ls -l
+alias "ls -l" ll
+exit
+clear
+cd ..\EPICS\
+ls
+ll
+clear
+cd ..\EPICS\
+ls
+ll
+cd extensions\
+ls
+make rebuild
+uptime
+uptime -h
+uptime --help
+exit
+cd utils\
+ls
+cd MSYS\bin\
+ls
+mingw-get.exe 
+mingw-get.exe --help
+ls
+ll
+exit
+ls
+ls -l
+cd ..
+ls
+cd EPICS\
+cd base-3.14.12.4.GW\
+ls
+make clean
+exit
+cd ..\EPICS\base-3.14.12.4.GW\
+make
+cd ..
+cd extensions\
+make
+perl
+which perl
+locate perl
+make rebuild
+exit
+cd ..\EPICS\extensions\
+make
+make rebuild
+perl --help
+make distclean
+make
+ls
+cd src\medm3_1_9\printUtils\O.win32-x86-mingw\
+make
+exit
+cd ..\EPICS\extensions\
+make
+locate perl
+which perl
+exit
+cd ..\EPICS\extensions\
+make rebuild
+cd ..
+cd EPICS\
+ls
+cd extensions\
+ls
+which xlib.h
+grep -rnI xlib .
+make
+which Xlib.h
+exit
+which X11
+which --help
+cd ..\EPICS\extensions\
+make
+ldd --help
+ld --help
+cd ..\EPICS\extensions\
+grep .rnI xlib .
+grep -rnI xlib .
+grep -rnI x11 .
+grep -rnI X11 .
+grep -rnI X11/Xlib .
+exit
+cd ..\EPICS\extensions\
+make
+cd ..\EPICS\extensions\
+make
+make rebuild
+env
+cd ..\EPICS\extensions\
+make rebuild
+exit
+cd ..\EPICS\extensions\
+make
+cd ..\EPICS\extensions\
+make
+env
+ls
+env > temp.txt
+cd configure\os\
+grep -rnI cygwin\include .
+grep -rnI "cygwin\include" .
+cd ../..
+make
+grep -rnI "cygwin/include" .
+make
+exit
+cd ..\EPICS\extensions\
+make
+cd ..\base-3.14.12.4
+cd ..\base-3.14.12.4.GW\
+cd config
+ls
+grep -rnI "cygwin/include" .
+cd ../configure
+grep -rnI "cygwin/include" .
+cd ..\..\extensions\
+grep -rnI "cygwin/include" .
+echo %EPICS_HOST_ARCH%
+exit
+cd ..\EPICS\extensions\
+make
+which gcc
+which g++
+which gcc
+cd ..\EPICS\extensions\
+make
+cd ..\EPICS\extensions\
+make
+cd ..\EPICS\extensions\
+make rebuild
+exit
+cd ../ext
+cd ..\EPICS\extensions\
+make rebuild
+exit
+cd ..\EPICS\base-3.14.12.4.GW\
+make rebuild
+cd ..\extensions\
+make rebuild
+which perl
+perl -v
+exit
+perl -v
+cd ..\EPICS\extensions\
+make
+which perl
+make
+which gcc
+exit
+which gcc
+cd ..\EPICS\extensions\
+make
+cd ..\EPICS\extensions\
+make
+make distclean
+make
+which libiconv.dll
+which libiconv
+locate libiconv
+exit
+cd ..\EPICS\extensions\
+make
+make rebuild
+make
+env
+make
+grep -rnI "X11_INC" .
+grep -rnI "XDK" .
+make
+cd src\medm3_1_9\
+make rebuild
+cd ../..
+grep -rnI "Xm.lib" .
+grep -rnI "Xm\.lib" .
+grep -rnI "cygwin" .
+grep -rnI "c:/cygwin" .
+grep -rnI "X11_LIB" .
+make
+set LD_LIBRARY_PATH=%LD_LIBRARY_PATH%;C:/Users/keena_000/Desktop/EPICS/base-3.14.12.4.GW/lib
+make
+set LD_LIBRARY_PATH=%LD_LIBRARY_PATH%;C:/Users/keena_000/Desktop/EPICS/base-3.14.12.4.GW/lib/win32-x86-mingw
+make
+ld Com
+exit
+cd ..\EPICS\extensions\
+make
+pwd
+which ld
+make
+make rebuild
+exit
+cd ..\EPICS\extensions\
+ls
+make rebuild
+grep -rnI "lprintf" .
+make
+cd src\xc\
+make
+make World
+cd 
+rm -rf xc
+ls
+cd ..
+rm -rf xc
+cd ..\bin\
+ls
+cd win32-x86-mingw\
+medm.exe 
+cd ../../..
+rm -rf extensions\
+cd synApps_5_7\
+make
+cd support\
+make
+make release
+make
+cd ..\EPICS\
+svn checkout https://subversion.xray.aps.anl.gov/bcdaioc/EPICsupport/working/synApps_5_7
+exit
+cd ..\EPICS\
+ls
+cd synApps_5_7\support\
+make
+make release
+make
+cd stream-2-6\
+make
+cd ..
+make
+cd mca-7-4\
+make
+hich gcc
+which gcc
+make
+cd ..\..\..\..\temp\
+gcc -o test.exe test.cpp 
+.\test.
+.\test.exe 
+g++ -o test.exe test.cpp 
+.\test.exe 
+g++ -o test.exe test.cpp 
+cd ..\EPICS\synApps_5_7\support\mca-7-4\
+make
+which g++
+which gcc
+make rebuild
+make
+cd ../../..
+cd ..
+cd "New folder\
+ls
+cd areaDetector-1-9-1\
+ls
+cd iocBoot\
+ls
+which vim
+which emacs
+which nano
+cd ..\..\..\EPICS\synApps_5_7\support\mca-7-4\
+exit
+env
+which env
+exit
+cd S:
+cd S:\
+S:
+env
+which cd
+ls
+ls -l
+cd C:\Users\keena_000\Desktop\EPICS\synApps_5_7\support\
+C:\Users\keena_000\Desktop\EPICS\synApps_5_7\support\
+C
+C:
+ls \
+ls -l \
+cd S:\
+S:
+ls
+ls -l
+which alias
+ll
+cd
+pwd
+which pwd
+pwd
+cd S:/
+pwd
+S:
+pwd
+exit
+alias --help
+echo $TERM
+echo %TERM%
+exit
+echo %TERM%
+ll
+ls
+term
+cmd
+ssh
+exit
+cd \bin\
+ls
+cd ..
+ls
+ll
+alias d=pwd
+d
+exit
+which less
+exit
+python
+ipython
+cd utils\python\App\
+ls
+.\python.exe 
+exit
+which sh
+which bash
+bash --version
+bash -v
+bash
+env
+bash
+tcsh
+bash -h
+exit
+C:
+cd "Users\keena_000\Desktop\New folder\
+ls
+cd areaDetector-1-9-1\iocBoot\iocPVCam\
+ls
+make
+cd ../../../..
+cd prebuilt\areaDetector-1-9-1\iocBoot\iocPVCam\
+C:
+cd Users\keena_000\Desktop\EPICS\synApps_5_7\support\areaDetector-1-9-1\iocBoot\iocPVCam\
+..\..\bin\win32-x86\pvCamApp.exe st.cmd
+exit
+C:
+cd Users\keena_000\Desktop\EPICS\synApps_5_7\support\areaDetector-1-9-1\
+make
+C:
+cd Users\keena_000\Desktop\EPICS\base-3.14.12.4.GW\
+set EPICS_HOST_ENV=windows-x64
+make rebuild
+cd ..\synApps_5_7\support\
+make
+env
+set EPICS_HOST_ARCH=windows-64
+cd ..\..\base-3.14.12.4.GW\
+set EPICS_HOST_ARCH=windows-x64
+make
+make rebuild
+cd ..\synApps_5_7\support\
+make
+make rebuild
+exit 
+env
+exit
+C:
+cd Users\keena_000\Desktop\EPICS\synApps_5_7\support\areaDetector-1-9-1\iocBoot\iocLightField\
+ls
+cd ../..
+make
+set EPICS_HOST_ARCH=windows-x64
+make
+exit
+C:
+cd Users\keena_000\Desktop\EPICS\synApps_5_7\support\
+make release
+cd areaDetector-1-9-1\
+make
+set EPICS_HOST_ARCH=windows-x86
+make
+set EPICS_HOST_ARCH=windows-x64
+make
+cd ..
+make release
+cd asyn-4-21\
+make
+cd ..\areaDetector
+cd ..\areaDetector-1-9-1\
+make
+exit
+export a=b
+set
+exit
+export A=B
+env
+exit
+env
+export A=B
+ls
+env
+ls
+profile.bat 
+ls
+ll
+ll
+ls
+alias
+profile.bat 
+ls
+ll
+exit
+C:
+cd Users\keena_000\Desktop\EPICS\base-3.14.12.4
+ls
+ll
+cd ..\base-3.14.12.4.GW\
+make
+make rebuild
+cd ..\synApps_5_7
+cd support\
+make rebuild
+env
+exit
+C:
+cd Users\keena_000\Desktop\EPICS\synApps_5_7\support\areaDetector-1-9-1\ADApp\op\adl\
+ls
+export PATH=%PATH%;"C:\Program Files\EPICS Windows Tools"
+medm -x LightField.adl 
+medm -macro "P=TESTLF1:,R=cam1:" -x LightField.adl 
+exit
+C:
+cd Users\keena_000\Desktop\EPICS\base-3.14.12.4.GW\
+make
+make rebuild
+cd ..\synApps_5_7
+cd support\
+make rebuild
+make
+cd areaDetector
+cd ..\areaDetector-1-9-1\
+make
+cd iocBoot\iocLightField\
+..\..\bin\windows-x64\LightFieldApp.exe .\st.cmd 
+make
+..\..\bin\windows-x64\LightFieldApp.exe .\st.cmd 
+exit
+C:
+cd Users\keena_000\Desktop\EPICS\base-3.14.12.4.GW\
+make rebuild
+make
+exit

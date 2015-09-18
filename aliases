@@ -1,0 +1,5 @@
+clear=cls
+d=pwd 
+export=set $*
+ls=ls --color $*
+ll=ls -l --color $*
