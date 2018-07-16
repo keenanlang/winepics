@@ -42,7 +42,7 @@
 @SET PATH=%PATH%;%CMDER_ROOT%\bin
 
 :: Runs the vsvars32 for the newest version of Visual Studio
-@FOR /F "tokens=*" %%i IN ('%CMDER_ROOT%\..\perl\perl\bin\perl %CMDER_ROOT%\scripts\version.pl') DO @CALL "%%i..\..\VC\vcvarsall.bat" x86
+@FOR /F "tokens=*" %%i IN ('%CMDER_ROOT%\..\perl\perl\bin\perl %CMDER_ROOT%\scripts\version.pl') DO @CALL "%%i\vcvarsall.bat" x86
 
 :: You can choose a different version by uncommenting the correct version
 :: @CALL "%VS90COMNTOOLS%..\..\VC\vcvarsall.bat" x86	&:: VS2008
