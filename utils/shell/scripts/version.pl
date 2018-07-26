@@ -17,7 +17,7 @@ if (! -e "C:\\Program Files (x86)\\Microsoft Visual Studio\\Installer\\vswhere.e
 }
 else
 {
-	$found = `"C:\\Program Files (x86)\\Microsoft Visual Studio\\Installer\\vswhere.exe" -latest -property installationPath`
+	$found = `"C:\\Program Files (x86)\\Microsoft Visual Studio\\Installer\\vswhere.exe" -latest -property installationPath`;
 	$found =~ s/[\r\n]+$//;
 	print $found . "\\VC\\Auxiliary\\Build\\";
 }
