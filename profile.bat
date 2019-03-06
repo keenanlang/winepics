@@ -8,4 +8,4 @@ set PATH=%PATH%;%TEMP%\utils\perl\c\bin
 set PATH=%PATH%;%TEMP%\utils\perl\perl\bin
 set PATH=%PATH%;%TEMP%\utils\Xming
 
-@START XLaunch -run %TEMP%\utils\Xming\config.xlaunch
+:: @START XLaunch -run %TEMP%\utils\Xming\config.xlaunch
